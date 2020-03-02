@@ -6,6 +6,6 @@ def recurs(y):
       result = 0
     return result
 
-print("End if the recursive loop")
+print("End of the recursive loop")
 recurs(6)
 
