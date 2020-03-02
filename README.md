@@ -1,0 +1,1 @@
+This is a code that will return values provided the condition specified is met AND only for 6 recursive loops. The function calls itself in a recursive loop to the number of loops otherwise it would be an endless process.
